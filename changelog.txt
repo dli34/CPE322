@@ -1,0 +1,7 @@
+Class1:
+Already reused raspberry pi from CPE390, did not need to follow 
+initialization.
+
+Class2 & 3: Did not have access to the hardware nececessary at the time, will
+attempt later.
+
